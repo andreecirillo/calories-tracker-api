@@ -200,7 +200,3 @@ pytest
    - Click on "Create API key"
    - A new API key will be generated for you
    - Copy and save this key in a secure location (you won't be able to see it again)
-
-## License
-
-This project is licensed under the MIT License.
